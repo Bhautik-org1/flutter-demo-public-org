@@ -1,8 +1,8 @@
 repo_name: Bhautik-org1/flutter-demo-public-org
-report_id: e76e415bfa31170df35ca866e01e8a61
+report_id: 72e0585128ed6e8f1ce9d9f4988f47eb
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-02T17:45:17+00:00'
+timestamp: '2024-02-05T10:09:15+00:00'
 requested_by: dependabot[bot]
 provider: github
 branch: dependabot/npm_and_yarn/functions/json5-2.2.3
